@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/kkn2022/static/css/main.073c9b0a.css",
-    "main.js": "/kkn2022/static/js/main.7f733a85.js",
-    "static/js/787.ae58ff28.chunk.js": "/kkn2022/static/js/787.ae58ff28.chunk.js",
-    "static/media/logo.svg": "/kkn2022/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/kkn2022/index.html",
-    "main.073c9b0a.css.map": "/kkn2022/static/css/main.073c9b0a.css.map",
-    "main.7f733a85.js.map": "/kkn2022/static/js/main.7f733a85.js.map",
-    "787.ae58ff28.chunk.js.map": "/kkn2022/static/js/787.ae58ff28.chunk.js.map"
+    "main.css": "/static/css/main.7a33ee26.css",
+    "main.js": "/static/js/main.9a09f37c.js",
+    "static/media/Indonesia-Political-Map.jpg": "/static/media/Indonesia-Political-Map.902e7203df8f98e29033.jpg",
+    "index.html": "/index.html",
+    "main.7a33ee26.css.map": "/static/css/main.7a33ee26.css.map",
+    "main.9a09f37c.js.map": "/static/js/main.9a09f37c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7f733a85.js"
+    "static/css/main.7a33ee26.css",
+    "static/js/main.9a09f37c.js"
   ]
 }
